@@ -6,7 +6,8 @@ export const inclusions = [
   },
   {
     title: 'Advanced Meter Infrastructure',
-    description: 'Leveraging technology to improve operational efficiency and customer satisfaction.',
+    description:
+      'Leveraging technology to improve operational efficiency and customer satisfaction.',
     icon: '/assets/icons/shipping.svg',
   },
 
